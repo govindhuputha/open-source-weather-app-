@@ -1,5 +1,5 @@
 # Backend Developer — Open Source Application Project
-**Duration:** November 2023 - December 2023 | **Location:** Anantapur, Andhra Pradesh, India
+**Duration:** November 2023 - December 2023 | **Location:** Hydwrabad, Telanagana, India
 
 ## Project Overview
 A lightweight, open-source backend web application engineered using the Flask framework. The platform efficiently communicates with third-party external REST APIs to fetch, parse, and handle real-time geo-weather metrics asynchronously under heavy concurrent loads.
